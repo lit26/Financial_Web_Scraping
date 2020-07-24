@@ -2,4 +2,4 @@
 
 ## PublicCompanyReport
 
-Fetching public company reports from www.sec.gov
+Fetching public company reports from www.sec.gov.
